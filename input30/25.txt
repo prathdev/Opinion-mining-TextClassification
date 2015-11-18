@@ -1,0 +1,8 @@
+
+The RBI today said it plans to allow banks to calculate at their own the capital requirement to handle credit risk if they meet certain criteria, like risk oversight norms and corporate governance. 
+ The central bank has issued a draft guidelines for allowing banks to shift to Internal Rating Based (IRB) Approach.
+Under this scheme banks are allowed to use their own internal estimates for some or all of the credit risk components in determining the capital requirement for a given credit exposure.
+"This (draft) guideline is meant for the banks which are willing and allowed by the RBI to adopt more sophisticated IRB approach," the central bank said.
+The credit risk components include, Probability of Default (PD), Loss Given Default (LGD), Exposure at Default (EAD) and Effective Maturity (M).
+The Basel-II framework provides two broad methodologies to banks to calculate capital requirements for credit risk, namely -- Standardised Approach (SA) and Internal Rating Based (IRB) Approach.
+The SA measures credit risk based on external credit assessments. The RBI has sought comments on the guidelines by September 9.

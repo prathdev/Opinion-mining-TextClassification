@@ -1,0 +1,5 @@
+
+Sebi has asked stock exchanges to impose heavy penalty on brokers allowing their clients to trade in derivative market without sufficient margin money and said that fines could be as high as the shortfall of funds. 
+ While the minimum penalty is 0.5 per cent of the shortfall of margin money, the penalty could be as high as 100 per cent, the Sebi said in a circular.
+The stock exchanges will have to impose the penalties from September 1, circular of Securities & Exchange Board of India (Sebi) said, adding, this is being done to protect investor interest and promote development of securities markets. The higher limit of exposure allowed by a broker to its clinet in the derivate market is the margin money. 
+According to Sebi norms, clearing members and trading members are required to collect initial margins from all their clients and required to report on a daily basis details of such margin amounts due and collected.
